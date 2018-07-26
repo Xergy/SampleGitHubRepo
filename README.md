@@ -1,1 +1,3 @@
 # SampleGitHubRepo
+
+New Readme info!
