@@ -6,6 +6,7 @@
 - VNets
 - Storage Accounts
 - Disks
+- Backup Vaults
 - etc...
 
 This script is designed to be run in the ISE manually region by region.  It also spans Azure Subscriptions with ease.
