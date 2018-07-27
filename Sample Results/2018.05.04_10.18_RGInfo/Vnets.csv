@@ -1,0 +1,5 @@
+"Name","ResourceGroupName","Location"
+"dvagov-btsss-dev-crm9-gwvnet","VA-AGILEDEVOPS-EAST-RG","usgovvirginia"
+"dvagov-btsss-dev-portal-gwvnet","VA-AGILEDEVOPS-EAST-RG","usgovvirginia"
+"VA-AGILEDEVOPS-EAST-NETWORK","VA-AGILEDEVOPS-EAST-RG","usgovvirginia"
+"VA-AGILEDEVOPS-RAFFE-RG-vnet","VA-AGILEDEVOPS-RAFFE-RG","usgovarizona"

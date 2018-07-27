@@ -1,0 +1,4 @@
+"Name","ResourceGroupName","Location"
+"LinuxOMS02VM-nsg","VA-AGILEDEVOPS-EAST-RG","usgovvirginia"
+"rdgateway-NSG","VA-AGILEDEVOPS-EAST-RG","usgovvirginia"
+"vac30gatveo801-nsg","VA-AGILEDEVOPS-EAST-RG","usgovvirginia"
